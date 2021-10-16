@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+
+.weatherCard{
+display: inline-block;
+width: 25%;
+padding: 20px;
+margin-bottom: 20px;
+background-color: #5779d8;
+border-radius: 16px;
+box-shadow: rgba(247, 239, 239, 0.56) 0px 22px 70px 4px;
+}
+
+.cardHeader{
+  color:#fff14a;
+  font-family:cursive;
+  margin-bottom:0px;
+}
+.header{
+  color: aliceblue;
+  font-family:cursive;
+  margin-bottom:0px;
+}
+.weatherIcon{
+  width: 100px;;
+}
+
+.cardImg{
+
+  width: 70px;
+}
+
+.info{
+  color:#0C266F;
+  font-family:cursive;
+  font-weight: bold;
+}
+.infoHeader{
+  color:#fff14a;
+  font-family:cursive;
+
+}
+
+.loading{
+  text-align: -webkit-center;
+  margin-top: 10%;
+}
